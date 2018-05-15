@@ -1,0 +1,3 @@
+[submodule "repos/lr-example-repo1"]
+	path = repos/lr-example-repo1
+	url = https://github.com/stain/lr-example-repo1.git
